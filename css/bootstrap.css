@@ -1637,6 +1637,9 @@ p {
         font-size: 21px
     }
 }
+.col-sm-12{
+    width: 100%;
+}
 
 .small,
 small {
