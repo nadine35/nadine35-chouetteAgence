@@ -388,6 +388,10 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+/*Changement d'espacement texte adresse contact*/
+.col-sm-6 h4{
+    line-height: 1.5;
+}
 
 .form-control {
     border: 2px solid black;
