@@ -296,7 +296,8 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
-.navbar .nav{
+
+.navbar .nav {
     right: 150px;
     position: absolute;
     top: 10px;
@@ -331,8 +332,8 @@ a:hover {
     float: right;
     z-index: 1;
     list-style-type: none;
- 
- 
+
+
 }
 
 .sr-only {
@@ -392,28 +393,32 @@ a:hover {
     border: 2px solid black;
     width: 60%;
 }
-.partners ul{
+
+.partners ul {
     margin-top: 0;
-  
+    text-decoration: underline;
     justify-content: space-between;
     list-style-type: none;
     padding-left: 0;
-    
+    color: black;
+
 }
-.partners{
+
+.partners {
     width: 100%;
 }
+
 .social {
     display: flex;
     margin: auto auto auto auto;
     justify-content: space-around;
 }
-.partners p:hover
-{
+
+.partners p:hover {
     color: white !important;
     cursor: pointer;
 }
- 
+
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -423,7 +428,7 @@ a:hover {
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
-    
+
 
 
     .nav>li .dropdown-menu a,
@@ -860,7 +865,7 @@ h4 {
 
 .row {
     margin-right: -15px;
-   margin-left: -20px;
+    margin-left: -20px;
 }
 
 .btn-atomic-tangerine {
@@ -895,7 +900,7 @@ h4 {
     border-color: #364577 !important;
 }
 
-.partners{
+.partners {
     margin-top: 20px;
 }
 
