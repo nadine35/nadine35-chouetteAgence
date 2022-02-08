@@ -396,7 +396,7 @@ a:hover {
 
 .partners ul {
     margin-top: 0;
-    text-decoration: underline;
+  
     justify-content: space-between;
     list-style-type: none;
     padding-left: 0;
@@ -417,6 +417,11 @@ a:hover {
 .partners p:hover {
     color: white !important;
     cursor: pointer;
+    
+}
+.partners ul:hover{
+    text-decoration: underline;
+
 }
 
 
