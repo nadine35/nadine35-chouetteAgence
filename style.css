@@ -796,7 +796,7 @@ p {
     font-family: "Open Sans";
 }
 
-.cta-hero {
+#cta-hero {
     margin-top: 22px;
     color: black !important;
     text-transform: uppercase;
@@ -841,6 +841,7 @@ h4 {
 
 .white {
     color: #FFFFFF !important;
+    font-weight: bold;
 }
 
 .navbar .nav .portfolio-thumb {
@@ -903,6 +904,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF !important;
+    font-weight: bold;
 }
 
 
@@ -940,9 +942,9 @@ h4 {
     background-image: url("img/image-chouette-agence-dots.webp");
 }
 
-.bg-lines-h2-bg {
+/*.bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
-}
+}*/
 
 .bg-banniere {
     background-image: url("img/image-chouette-agence-banniere-presentation.webp");
