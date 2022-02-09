@@ -937,7 +937,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/image-chouette-agence-dots.png");
+    background-image: url("img/image-chouette-agence-dots.webp");
 }
 
 .bg-lines-h2-bg {
@@ -945,11 +945,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/image-chouette-agence-banniere-presentation.jpg");
+    background-image: url("img/image-chouette-agence-banniere-presentation.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-chouette-agence-presentation.jpg");
+    background-image: url("img/image-chouette-agence-presentation.webp");
 }
 
 @media (max-width: 1024px) {
