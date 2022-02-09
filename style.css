@@ -54,6 +54,7 @@ a:hover {
     padding: 50px;
 }
 
+
 .bloc-sm {
     padding: 20px 50px;
 }
@@ -384,8 +385,9 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
 /*Changement d'espacement texte adresse contact*/
-.col-sm-6 h4{
+.col-sm-6 h4 {
     line-height: 1.5;
 }
 
@@ -396,16 +398,34 @@ a:hover {
 
 .partners ul {
     margin-top: 0;
-  
-    justify-content: space-between;
+    display: flex;
+
     list-style-type: none;
     padding-left: 0;
     color: black;
 
 }
 
+.partners p {
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.contact {
+
+    font-size: 22px;
+}
+
+.partners li {
+    margin-right: 15px;
+    font-size: 16px;
+}
+
 .partners {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
 }
 
 .social {
@@ -413,13 +433,18 @@ a:hover {
     margin: auto auto auto auto;
     justify-content: space-around;
 }
+/*citation nom en gras*/
+cite{
+    font-weight: bold;
+}
 
 .partners p:hover {
     color: white !important;
     cursor: pointer;
-    
+
 }
-.partners ul:hover{
+
+.partners ul:hover {
     text-decoration: underline;
 
 }
@@ -866,10 +891,10 @@ h4 {
     color: #fff !important;
 }
 
-.row {
+/*.row {
     margin-right: -15px;
     margin-left: -20px;
-}
+}*/
 
 .btn-atomic-tangerine {
     background: #F3976C;
