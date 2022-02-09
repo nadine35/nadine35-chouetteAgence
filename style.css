@@ -430,6 +430,9 @@ a:hover {
 .partners a{
     color: #474646 !important;
 }
+blockquote p{
+    font-size: 22px;
+}
  
 
 .partners {
