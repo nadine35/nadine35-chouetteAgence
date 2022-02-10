@@ -384,6 +384,11 @@ a:hover {
 .nav-invert .navbar .nav {
     float: left;
 }
+/**/
+ul.site-navigation.navbar-nav{
+    border: none;
+    margin-top: 20px;
+}
 
 .nav-invert .navbar-header,
 .nav-invert .navbar-brand {
@@ -939,6 +944,7 @@ h4 {
 }
 
 
+
 .btn-atomic-tangerine:hover {
     background: #c27956 !important;
     color: #FFFFFF !important;
@@ -1077,11 +1083,13 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
-
+/*modification menu responsive déroulant*/
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none !important;
+        position: initial;
+        width: fit-content;
     }
 
     .navbar.row {
