@@ -144,7 +144,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
-   
+
 }
 
 .d-bloc .a-btn:hover,
@@ -360,8 +360,6 @@ a:hover {
     text-align: inherit;
 }
 
-
-
 .nav>li a:hover,
 .nav>li a:focus {
     background: transparent;
@@ -419,8 +417,6 @@ ul.site-navigation.navbar-nav {
     list-style-type: none;
     padding-left: 0;
     color: #474646 !important;
-
-
 }
 
 .partners p {
@@ -438,8 +434,6 @@ ul.site-navigation.navbar-nav {
 .partners li {
     margin-right: 15px;
     font-size: 16px;
-
-
 }
 
 .partners a {
@@ -456,7 +450,6 @@ blockquote p {
     display: flex;
     justify-content: center;
     font-size: 16px;
-
 }
 
 .social {
@@ -470,7 +463,6 @@ cite {
     font-weight: bolder;
     color: #474646;
 }
-
 
 .partners p:hover {
     color: white !important;
@@ -900,7 +892,7 @@ h4 {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
 
-/*changement moins de transparence fond pourcontraste
+/*changement moins de transparence fond pour contraste
  texte image parallax contactez notre équipe 0.7/1.5*/
 .black-background {
     background-color: rgba(165, 147, 99, 1.5);
@@ -926,9 +918,9 @@ h4 {
 }
 
 .tc-white {
-    /*  color: #F3976C!important;*/
+    /*  modif color: #F3976C!important;*/
     color: #f9a67f !important;
-    
+
 }
 
 .contact-page-title {
@@ -942,10 +934,7 @@ h4 {
     color: #fff !important;
 }
 
-/*.row {
-    margin-right: -15px;
-    margin-left: -20px;
-}*/
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
