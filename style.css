@@ -352,7 +352,8 @@ a:hover {
     margin-top: 4px;
     font-size: 16px;
     margin: 5px;
-    /*rectif*/
+    font-size: 18px;
+    /*rectif */
 }
 
 .navbar-nav .open .dropdown-menu>li>a {
