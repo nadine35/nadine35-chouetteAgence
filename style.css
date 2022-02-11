@@ -639,6 +639,7 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
     width: fit-content;
+    border: 1px solid #333;
 }
 
 .scrollToTop {
