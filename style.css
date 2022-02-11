@@ -880,6 +880,7 @@ h4 {
 .white {
     color: #FFFFFF !important;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .navbar .nav .portfolio-thumb {
