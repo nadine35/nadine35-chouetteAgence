@@ -300,8 +300,9 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
+
 /*modif 10/02*/
-.navbar .nav{
+.navbar .nav {
     right: 150px;
     position: absolute;
     top: 10px;
@@ -339,7 +340,8 @@ a:hover {
 
 
 }
-.sr-only{
+
+.sr-only {
     display: none;
 }
 
@@ -384,8 +386,9 @@ a:hover {
 .nav-invert .navbar .nav {
     float: left;
 }
+
 /**/
-ul.site-navigation.navbar-nav{
+ul.site-navigation.navbar-nav {
     border: none;
     margin-top: 20px;
 }
@@ -432,16 +435,18 @@ ul.site-navigation.navbar-nav{
 .partners li {
     margin-right: 15px;
     font-size: 16px;
-    
+
 
 }
-.partners a{
+
+.partners a {
     color: #474646 !important;
 }
-blockquote p{
+
+blockquote p {
     font-size: 22px !important;
 }
- 
+
 
 .partners {
     width: 100%;
@@ -652,6 +657,7 @@ button {
 
 .scrollToTop span {
     margin-top: 6px;
+    color: white;
 }
 
 .showScrollTop {
@@ -1083,7 +1089,8 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
-/*modification menu responsive déroulant*/
+
+    /*modification menu responsive déroulant*/
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
