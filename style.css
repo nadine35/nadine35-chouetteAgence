@@ -580,6 +580,7 @@ nav .caret {
 
 .form-group {
     margin-bottom: 15px;
+    font-size: initial;
 }
 
 .btn-d,
@@ -637,6 +638,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: fit-content;
 }
 
 .scrollToTop {
