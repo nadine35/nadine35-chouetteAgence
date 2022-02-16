@@ -429,6 +429,7 @@ ul.site-navigation.navbar-nav {
 .color-title {
     color: #ebba4c !important;
     font-weight: bold;
+    background: #474646 !important;
 }
 
 .contact {
@@ -805,10 +806,6 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
-
-    border-radius: 5px;
-
-
 }
 
 .hero-bloc-text-sub {
@@ -1071,7 +1068,7 @@ p.text-center.white {
     }
 
     .bloc {
-      /*  padding-left: constant(safe-area-inset-left);
+        /*  padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);*/
     }
 
