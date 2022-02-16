@@ -894,7 +894,7 @@ h4 {
 }
 
 p.text-center.white {
-    color: #474646 !important;
+    color: black !important;
 }
 
 .navbar .nav .portfolio-thumb {
@@ -959,7 +959,7 @@ p.text-center.white {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #474646 !important;
+    color: black !important;
     font-weight: bold;
 }
 
