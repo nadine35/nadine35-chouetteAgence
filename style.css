@@ -432,6 +432,10 @@ ul.site-navigation.navbar-nav {
     color: black !important;
 }
 
+p.text-center.whitter {
+    color: white !important;
+}
+
 .partners li {
     margin-right: 15px;
     font-size: 16px;
@@ -795,10 +799,10 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
-    background-color: #474646;
-    border-radius: 5px;
- 
     
+    border-radius: 5px;
+
+
 }
 
 .hero-bloc-text-sub {
@@ -888,7 +892,8 @@ h4 {
     font-weight: bold;
     font-size: 18px;
 }
-p.text-center.white{
+
+p.text-center.white {
     color: #474646 !important;
 }
 
@@ -932,10 +937,11 @@ p.text-center.white{
 
 .tc-white {
     /* modif color: #F3976C!important;*/
-     color: #f9a67f !important;
-     background-color: #474646 !important;
-     
-    
+    color: #f9a67f !important;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+
+
 }
 
 .contact-page-title {
