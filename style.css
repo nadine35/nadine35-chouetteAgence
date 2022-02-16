@@ -899,7 +899,7 @@ h4 {
 /*changement moins de transparence fond pour contraste
  texte image parallax contactez notre équipe 0.7/1.5*/
 .black-background {
-    background-color: rgba(165, 147, 99, 1.5);
+    background-color: #474646;
     padding: 40px 40px 40px 40px;
 }
 
@@ -923,8 +923,8 @@ h4 {
 
 .tc-white {
     /*  modif color: #F3976C!important;*/
-    /* color: #f9a67f !important;*/
-    color: #712A09;
+     color: #f9a67f !important;
+    
 }
 
 .contact-page-title {
