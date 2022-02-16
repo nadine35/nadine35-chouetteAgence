@@ -475,6 +475,9 @@ cite {
     cursor: pointer;
 
 }
+.partners p{
+    color: black !important;
+}
 
 /*changement a lien footer partners au hover*/
 .partners ul a:hover {
