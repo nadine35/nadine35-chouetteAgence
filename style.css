@@ -425,8 +425,9 @@ ul.site-navigation.navbar-nav {
     color: black !important;
     font-weight: bolder;
 }
-.color-title h1,h2{
-    color:#ebba4c !important;
+
+.color-title {
+    color: #ebba4c !important;
 }
 
 .contact {
@@ -803,7 +804,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
-    
+
     border-radius: 5px;
 
 
@@ -942,7 +943,7 @@ p.text-center.white {
 .tc-white {
     /* modif color: #F3976C!important;*/
     color: #f9a67f !important;
-    
+
     font-weight: bold;
 
 
