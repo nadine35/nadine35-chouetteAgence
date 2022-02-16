@@ -422,7 +422,8 @@ ul.site-navigation.navbar-nav {
 .partners p {
     margin-right: 10px;
     font-size: 16px;
-    color: #242323 !important;
+    color: #474646 !important;
+    font-weight: bolder;
 }
 
 .contact {
@@ -438,6 +439,7 @@ ul.site-navigation.navbar-nav {
 
 .partners a {
     color: #474646 !important;
+    font-weight: bold;
 }
 
 blockquote p {
@@ -882,9 +884,12 @@ h4 {
 }
 
 .white {
-    color: #242323 !important;
+    color: white !important;
     font-weight: bold;
     font-size: 18px;
+}
+p.text-center.white{
+    color: #474646 !important;
 }
 
 .navbar .nav .portfolio-thumb {
@@ -948,7 +953,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #242323 !important;
+    color: #474646 !important;
     font-weight: bold;
 }
 
