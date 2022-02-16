@@ -416,7 +416,7 @@ ul.site-navigation.navbar-nav {
     display: flex;
     list-style-type: none;
     padding-left: 0;
-    color: #474646 !important;
+    color: #242323 !important;
 }
 
 .partners p {
@@ -928,6 +928,7 @@ h4 {
 .tc-white {
     /* modif color: #F3976C!important;*/
      color: #f9a67f !important;
+     background-color: #474646 !important;
      
     
 }
