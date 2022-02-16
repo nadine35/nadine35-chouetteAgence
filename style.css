@@ -425,7 +425,7 @@ ul.site-navigation.navbar-nav {
     color: black !important;
     font-weight: bolder;
 }
-.color-title{
+.color-title h1,h2{
     color:#ebba4c !important;
 }
 
