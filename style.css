@@ -1068,9 +1068,9 @@ p.text-center.white {
     }
 
     .bloc {
-        /*  Ne correspond pas à des valeurs de padding-left and right
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);*/
+        
+        padding-left: 0;
+        padding-right: 0;
         
     }
 
