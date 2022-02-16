@@ -793,6 +793,10 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    background-color: #474646;
+    border-radius: 5px;
+ 
+    
 }
 
 .hero-bloc-text-sub {
