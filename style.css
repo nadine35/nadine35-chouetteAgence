@@ -427,7 +427,8 @@ ul.site-navigation.navbar-nav {
 }
 
 .color-title {
-    color: black !important;
+    color:#4A4A4A !important;
+    font-weight: bold;
 }
 
 .contact {
