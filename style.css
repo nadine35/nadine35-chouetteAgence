@@ -899,7 +899,7 @@ h4 {
 /*changement moins de transparence fond pour contraste
  texte image parallax contactez notre équipe 0.7/1.5*/
 .black-background {
-    background-color: #474646;
+    background-color: #474646 !important;
     padding: 40px 40px 40px 40px;
 }
 
