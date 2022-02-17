@@ -405,9 +405,7 @@ ul.site-navigation.navbar-nav {
 .col-sm-6 h4 {
     line-height: 1.5;
 }
-.col-sm-12{
-    background: url("img/texture-paper.png");
-}
+
 
 .form-control {
     border: 2px solid black;
@@ -432,6 +430,7 @@ ul.site-navigation.navbar-nav {
 .color-title {
     color: #f9a67f !important;
     font-weight: bold;
+    background-color: #474646;
  
 }
 
